@@ -9,7 +9,7 @@
     <remote name="svmp"
         fetch="https://github.com/SVMP/" />
     <remote name="google"
-        fetch=" https://android.googlesource.com/" />
+        fetch="https://android.googlesource.com/" />
     <default revision="master"
         remote="aosp"
         sync-j="4" />
