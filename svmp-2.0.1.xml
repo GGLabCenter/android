@@ -747,5 +747,5 @@
     <project path="external/llvm" remote="github" revision="svmp-2.0.0" name="SVMP/android_external_llvm" groups="pdk" />
     <!--repo doesnt exist-->
     <!--<project path="hardware/intel/hwcomposer" remote="github" revision="release/android-4.2.2_r1-ia3" name="android-ia/hardware_intel_hwcomposer" />-->
-    <project path="hardware/intel/hwcomposer" remote="google"  name="platform/hardware/intel/img/hwcomposer" />
+    <project path="hardware/intel/hwcomposer" remote="google" revision="release/android-5.0.0_r1"  name="platform/hardware/intel/img/hwcomposer" />
 </manifest>
